@@ -1,17 +1,17 @@
-### Hello👋 I can work ⭐⭐⭐ * 10 hours/week
+### Hello👋 I can work ⭐⭐⭐ * 10 hours / week
 
 <p>
-If you're looking for a creative and optimistic person who loves coding and solving different problems, then I'm ready to work with you!
+✨If you're looking for a creative and optimistic person who loves coding and solving difficult problems, then I'm ready to work with you!✨
 </p>
 
-### ❤️ skills ❤️
+### ❤️ Skills ❤️
 - 🌱 Frontend : React, Next, Vue, Nuxt, Angular, Jquery, Bootstrap, TailwindCSS, React Native, Flutter, Ionic, Electron
 - 🔭 Backend : CI, Laravel, Django, Express, Loopback, Nestjs
 - 🧩 Database : MySQL, PostgreSQL, MongoDB, Firestore, MariaDB, SQLite
 - 💬 Language : HTML, CSS, Javascript, Typescript, Python, PHP, Dart
 - 📫 Interesting : OpenCV, DL and AI
 
-### Tools
+### ❤️ Tools ❤️
 <code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="45" src="https://cdn.worldvectorlogo.com/logos/next-js.svg"></code>
 <code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
