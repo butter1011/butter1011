@@ -1,19 +1,10 @@
-### Hi everyone! With me, success is in your hands 👋
+### Hello👋 I can work ⭐⭐⭐ * 10 hours/week
 
 <p>
-Passionate Full-stack Developer specialized in scalable web & mobile development, with a keen interest in blockchain and deep learning. Always eager to learn and love to help others.
-
-<h3>🏆 Github Profile Trophy</h3>
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Superbluestar&column=-1&theme=gruvbox&title=Followers,Commits,Stars,Repositories,PullRequest,Issues,Organizations,MultiLanguage" alt="Followers, Commits, Stars, Repositories, PullRequest">
-</p>
-<p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=SuperBluestar&langs_count=20&layout=compact&theme=tokyonight&include_all_commits=true&line_height=27">
-</p>
-<p align="center"><img src="https://readme-typing-svg.herokuapp.com?size=30&duration=7000&center=true&vCenter=true&width=800&height=60&lines=Passionate+business+partner;Talented+react%2Fvue+frontend+engineer;Experienced+nodejs+backend+engineer;Honest+smart+contract+developer;" />
+If you're looking for a creative and optimistic person who loves coding and solving different problems, then I'm ready to work with you!
 </p>
 
-### Skills
+### ❤️ skills ❤️
 - 🌱 Frontend : React, Next, Vue, Nuxt, Angular, Jquery, Bootstrap, TailwindCSS, React Native, Flutter, Ionic, Electron
 - 🔭 Backend : CI, Laravel, Django, Express, Loopback, Nestjs
 - 🧩 Database : MySQL, PostgreSQL, MongoDB, Firestore, MariaDB, SQLite
