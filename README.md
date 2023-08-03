@@ -3,7 +3,9 @@
 <p>
 ✨If you're looking for a creative and optimistic person who loves coding and solving difficult problems, then I'm ready to work with you!✨
 </p>
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=jankozik&column=7&row=1&theme=matrix&margin-w=40&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 ### ❤️ Skills ❤️
 - 🌱 Frontend : React, Next, Vue, Nuxt, Angular, Jquery, Bootstrap, TailwindCSS, React Native, Flutter, Ionic, Electron
@@ -11,7 +13,7 @@
 - 🧩 Database : MySQL, PostgreSQL, MongoDB, Firestore, MariaDB, SQLite
 - 💬 Language : HTML, CSS, Javascript, Typescript, Python, PHP, Dart
 - 📫 Interesting : OpenCV, DL and AI
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg">
+
 
 ### ❤️ Tools ❤️
 
@@ -53,6 +55,8 @@
 <code><img height="45" src="https://brandslogos.com/wp-content/uploads/images/heroku-logo.png"></code>
 <code><img height="45" src="https://cdn0.iconfinder.com/data/icons/flat-round-system/512/microsoft_windows-512.png"></code>
 <code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
+
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg">
 <!--
 **SuperBluestar/SuperBluestar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
