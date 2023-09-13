@@ -1,4 +1,4 @@
-### <h1> Hello👋 I can work ⭐⭐⭐ * 10 hours / week </h1>
+### <h1> Hello👋 I can work 40 hours / week </h1>
 
 <p>
 ✨If you're looking for a creative and optimistic person who loves coding and solving difficult problems, then I'm ready to work with you!✨
