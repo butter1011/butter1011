@@ -9,7 +9,7 @@
 
 ### ❤️ Skills ❤️
 - 🌱 Frontend : React, Next, Vue, Nuxt, Angular, Jquery, Bootstrap, TailwindCSS, React Native, Flutter, Ionic, Electron
-- 🔭 Backend : CI, Laravel, Django, Express, Loopback, Nestjs
+- 🔭 Backend : CI, Laravel, Django, Express, Loopback, Nextjs
 - 🧩 Database : MySQL, PostgreSQL, MongoDB, Firestore, MariaDB, SQLite
 - 💬 Language : HTML, CSS, Javascript, Typescript, Python, PHP, Dart
 - 📫 Interesting : OpenCV, DL and AI
