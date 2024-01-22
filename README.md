@@ -1,4 +1,4 @@
-### <h1> Hello👋 I can work 40 hours / week </h1>
+### <h1> Odoo developer with 5 years of experience </h1>
 
 <p>
 ✨If you're looking for a creative and optimistic person who loves coding and solving difficult problems, then I'm ready to work with you!✨
@@ -8,11 +8,10 @@
 
 
 ### ❤️ Skills ❤️
-- 🌱 Frontend : React, Next, Vue, Nuxt, Angular, Jquery, Bootstrap, TailwindCSS, React Native, Flutter, Ionic, Electron
-- 🔭 Backend : CI, Laravel, Django, Express, Loopback, Nextjs
+- 🌱 OWL framework, modules and database structure
+- 🔭 Module development, customization, integration with third-party systems
 - 🧩 Database : MySQL, PostgreSQL, MongoDB, Firestore, MariaDB, SQLite
 - 💬 Language : HTML, CSS, Javascript, Typescript, Python, PHP, Dart
-- 📫 Interesting : OpenCV, DL and AI
 
 
 ### ❤️ Tools ❤️
