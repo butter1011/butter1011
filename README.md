@@ -8,7 +8,7 @@
 
 
 ### ❤️ Skills ❤️
-- 🌱 Machine Learning, Artificial Intelligence, Pytorch, Numpy, Scikit-lear ...
+- 🌱 Machine Learning, Artificial Intelligence, Pytorch, Numpy, Scikit-learn ...
 - 🔭 Module development, customization, integration with third-party systems
 - 🧩 Database : MySQL, PostgreSQL, MongoDB, Firestore, MariaDB, SQLite
 - 💬 Language : HTML, CSS, Javascript, Typescript, Python, PHP, Dart
