@@ -1,4 +1,4 @@
-### <h1> Web | Odoo developer with 5 years of experience </h1>
+### <h1> AI/ML Engineer | Web Developer </h1>
 
 <p>
 ✨If you're looking for a creative and optimistic person who loves coding and solving difficult problems, then I'm ready to work with you!✨
@@ -8,7 +8,7 @@
 
 
 ### ❤️ Skills ❤️
-- 🌱 OWL framework, modules and database structure
+- 🌱 Machine Learning, Artificial Intelligence, Pytorch, Numpy, Scikit-lear ...
 - 🔭 Module development, customization, integration with third-party systems
 - 🧩 Database : MySQL, PostgreSQL, MongoDB, Firestore, MariaDB, SQLite
 - 💬 Language : HTML, CSS, Javascript, Typescript, Python, PHP, Dart
