@@ -18,9 +18,7 @@
 
 ### Telegram Miniapp
 
-<div align="center">
-  ![Ton](https://github.com/user-attachments/assets/fdfc8745-3c57-416c-a1c8-4718febea94d)
-</div>
+![Ton](https://github.com/user-attachments/assets/fdfc8745-3c57-416c-a1c8-4718febea94d)
 
 ###
 
