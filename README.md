@@ -17,8 +17,11 @@
 </div>
 
 ### Telegram Miniapp
-
+<h3> Tap-Ton-miniapp </h3>
 ![Ton](https://github.com/user-attachments/assets/fdfc8745-3c57-416c-a1c8-4718febea94d)
+
+<h3> Frognut-bot </h3>
+![Untitled-2](https://github.com/user-attachments/assets/09a0a5e7-66b2-48a0-98ae-a8c9f1e6cb41)
 
 ###
 
