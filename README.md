@@ -1,20 +1,6 @@
-<h1> 💞Full Stack Developer </h1>
-
-<p>
-✨If you're looking for a creative and optimistic person who loves coding and solving difficult problems, then I'm ready to work with you!✨
-</p>
+<h1> 📞 Telegram Bot / 📃 OCR Expert </h1>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=jankozik&column=7&row=1&theme=matrix&margin-w=40&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
-
-
-### Skills
-- 🧨 Blockchain: DApps, DEX, Defi, Ethereum, Solana, Smart Contract, 
-- 🌱 AI: Machine Learning, Artificial Intelligence, Pytorch, Numpy, Scikit-learn ...
-- 🔭 Web Development: Next.js, React.js, N
-- 🧩 Database : MySQL, PostgreSQL, MongoDB, Firestore, MariaDB, SQLite
-- 💬 Language : Solidity, Rust, Javascript, Typescript, Python, PHP, Dart
-
-
 ### Tools
 
 <code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
