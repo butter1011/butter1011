@@ -43,11 +43,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
 </div>
 
-###
+### OCR / PDF Extract
+![OCR](https://github.com/user-attachments/assets/46d78da1-d972-4523-bcf2-9394fd5bb436)
 
-<div align="center">
-  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
-</div>
 
 ###
 
