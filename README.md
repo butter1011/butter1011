@@ -1,4 +1,4 @@
-<h2 align="left">Hi ! I am a 📞Telegram Bot / 📃OCR Expert.</h2>
+<h2 align="left">Hi ! I am a Telegram Bot / OCR Expert.</h2>
 
 ### Contact
 
