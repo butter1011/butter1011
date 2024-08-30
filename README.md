@@ -1,4 +1,4 @@
-<h2 align="left">Hi ! I am a Telegram Bot / OCR Expert.</h2>
+<h2 align="left">Hi ! I am a Telegram Bot </h2>
 
 ### Contact
 
@@ -40,10 +40,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
 </div>
-
-### OCR / PDF Extract
-![OCR](https://github.com/user-attachments/assets/46d78da1-d972-4523-bcf2-9394fd5bb436)
-
 
 ###
 
