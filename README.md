@@ -1,6 +1,6 @@
-<h2 align="left">Hi ! I am a Telegram Bot / Telegram Miniapp Expert </h2>
+<h2 align="left"> I am a Telegram Bot / Telegram Miniapp Expert </h2>
 
-### Contact
+###
 
 <div align="left">
   <a href="mailto:luckybutter322982@gmail.com" target="_blank">
