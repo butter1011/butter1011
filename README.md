@@ -1,4 +1,4 @@
-<h2 align="left">Hi ! I am a Telegram Bot </h2>
+<h2 align="left">Hi ! I am a Telegram Bot / Telegram Miniapp Expert </h2>
 
 ### Contact
 
