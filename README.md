@@ -1,4 +1,4 @@
-<h2 align="left"> I am a Telegram Bot / Telegram Miniapp Expert </h2>
+<h2 align="left"> I am a Bot Expert | Telegram | Chatbot | Trading </h2>
 
 ###
 
