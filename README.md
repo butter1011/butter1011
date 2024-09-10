@@ -1,5 +1,3 @@
-<h2 align="left"> I am a Bot Expert | Telegram | Chatbot | Trading </h2>
-
 ###
 
 <div align="left">
