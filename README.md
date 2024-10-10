@@ -191,11 +191,6 @@ Please visit https://salvadorruiz2024.vercel.app/
 </table>
 <!--END_SECTION:top-followers-->
 
-### 💬 Clients FeedBack ✍
-![](https://github.com/Manjul1225/portfolio_html/blob/master/assets/img/Feedback1.png)
-![](https://github.com/Manjul1225/portfolio_html/blob/master/assets/img/Feedback2.png)
-        
-
 ### 👉 About Me
 <br/>
 
