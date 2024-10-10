@@ -190,6 +190,7 @@ Please visit https://salvadorruiz2024.vercel.app/
   </tr>
 </table>
 <!--END_SECTION:top-followers-->
+
 ### 💬 Clients FeedBack ✍
 ![](https://github.com/Manjul1225/portfolio_html/blob/master/assets/img/Feedback1.png)
 ![](https://github.com/Manjul1225/portfolio_html/blob/master/assets/img/Feedback2.png)
@@ -230,6 +231,7 @@ Please visit https://salvadorruiz2024.vercel.app/
   
 
 - ⚡ Fun fact: I keep night shift swithed on at all times
+</td></tr></table>  
 
 <div align="left">
   <a href="mailto:luckybutter322982@gmail.com" target="_blank">
