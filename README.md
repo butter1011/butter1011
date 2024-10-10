@@ -190,3 +190,55 @@ Please visit https://salvadorruiz2024.vercel.app/
   </tr>
 </table>
 <!--END_SECTION:top-followers-->
+### 💬 Clients FeedBack ✍
+![](https://github.com/Manjul1225/portfolio_html/blob/master/assets/img/Feedback1.png)
+![](https://github.com/Manjul1225/portfolio_html/blob/master/assets/img/Feedback2.png)
+        
+
+### 👉 About Me
+<br/>
+
+✨ Ability to write clean, maintainable and efficient code.
+
+✨ Experience in developing dynamic, interactive and user-friendly  websites.
+
+✨ Ability to work both independently and collaboratively in a team environment.
+
+✨ Excellent problem-solving skills and attention to detail.
+
+✨ Ability to multitask with strict time constraints, budgets and business goals
+
+✨ Driven to learn and self-improve
+
+✨ A professional who is ensuring a polished final product.
+
+✨ Strong Communication skill!
+
+<br/>  
+
+
+### ♻ Rapidfire  
+<table><tr><td valign="top" width="100%">
+
+- 🔭 I’m currently working on Business Website Deveopment
+  
+
+- 🌱 I’m currently building business websites using Next.js, Typescript, Tailwind CSS.  
+  
+
+- ❓ Ask me about anything.
+  
+
+- ⚡ Fun fact: I keep night shift swithed on at all times
+
+<div align="left">
+  <a href="mailto:luckybutter322982@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://t.me/luckybutter1011" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
+  </a>
+  <a href="https://wa.me/155755238602" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
+  </a>
+</div>
