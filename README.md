@@ -2,7 +2,7 @@
 
 ### 🏆 Recent Work 🏆
 
-### Telegram Miniapp
+### Miniapp
 ![Ton](https://github.com/user-attachments/assets/fdfc8745-3c57-416c-a1c8-4718febea94d)
 
 ![Untitled-2](https://github.com/user-attachments/assets/09a0a5e7-66b2-48a0-98ae-a8c9f1e6cb41)
