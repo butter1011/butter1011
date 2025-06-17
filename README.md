@@ -2,5 +2,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=butter1011&show_icons=true&locale=en&layout=compact" alt="butter" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=butter1011&show_icons=true&locale=en" alt="butter" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=butter1011&" alt="butter" /></p>
