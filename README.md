@@ -85,6 +85,6 @@ Binance • Coinbase Pro • Kraken • KuCoin • Huobi • OKX • Bybit • G
 
 Made with ❤️ by the Kaize3 Team
 
-[Website](https://ethereum-mev-bot.vercel.app)
+[Website](http://solana-sniperbot-optimized.vercel.app/)
 
 </div>
