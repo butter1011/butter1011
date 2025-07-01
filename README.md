@@ -75,7 +75,6 @@ Binance • Coinbase Pro • Kraken • KuCoin • Huobi • OKX • Bybit • G
 
 - 📧 Email: luckybutter322982@gmail.com
 - 💬 Discord: @butterfz
-- 📱 Telegram: @butter1011
 
 ---
 
