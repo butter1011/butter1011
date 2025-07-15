@@ -71,13 +71,6 @@ Binance • Coinbase Pro • Kraken • KuCoin • Huobi • OKX • Bybit • G
 
 **This software is for educational purposes only. Cryptocurrency trading involves substantial risk of loss. Never invest more than you can afford to lose.**
 
-## 📞 Support & Community
-
-- 📧 Email: luckybutter322982@gmail.com
-- 💬 Discord: @butterfz
-
----
-
 <div align="center">
 
 **⭐ Star this repository if you find it helpful!**
