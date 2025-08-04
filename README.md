@@ -75,8 +75,4 @@ Binance • Coinbase Pro • Kraken • KuCoin • Huobi • OKX • Bybit • G
 
 **⭐ Star this repository if you find it helpful!**
 
-Made with ❤️ by the Kaize3 Team
-
-[Website](http://solana-sniperbot-optimized.vercel.app/)
-
 </div>
