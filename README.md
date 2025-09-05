@@ -43,9 +43,9 @@ One-command deployment with Docker Compose for production environments.
 | XGBoost | Trend classification | 89.7% |
 | Ensemble Model | Combined predictions | 91.2% |
 
-## 🔧 Supported Exchanges
+## 🔧 GMGN History
 
-Binance • Coinbase Pro • Kraken • KuCoin • Huobi • OKX • Bybit • Gate.io
+https://gmgn.ai/sol/address/999Ks5ZWzd5MiPzBwxzTiBWiCnW18qgysFDe67kRwvYk
 
 ## 🛡️ Security Features
 
@@ -61,7 +61,7 @@ Binance • Coinbase Pro • Kraken • KuCoin • Huobi • OKX • Bybit • G
 - **Triangular Arbitrage** - Currency conversion cycles
 - **Statistical Arbitrage** - Mean-reversion opportunities
 - **Latency Arbitrage** - Speed-based advantages
-
+  
 ## ⚠️ Disclaimer
 
 **This software is for educational purposes only. Cryptocurrency trading involves substantial risk of loss. Never invest more than you can afford to lose.**
