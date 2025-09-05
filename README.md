@@ -43,10 +43,6 @@ One-command deployment with Docker Compose for production environments.
 | XGBoost | Trend classification | 89.7% |
 | Ensemble Model | Combined predictions | 91.2% |
 
-## 🔧 GMGN History
-
-https://gmgn.ai/sol/address/999Ks5ZWzd5MiPzBwxzTiBWiCnW18qgysFDe67kRwvYk
-
 ## 🛡️ Security Features
 
 - Encrypted API key storage
