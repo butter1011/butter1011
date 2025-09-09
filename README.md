@@ -57,10 +57,6 @@ One-command deployment with Docker Compose for production environments.
 - **Triangular Arbitrage** - Currency conversion cycles
 - **Statistical Arbitrage** - Mean-reversion opportunities
 - **Latency Arbitrage** - Speed-based advantages
-  
-## ⚠️ Disclaimer
-
-**This software is for educational purposes only. Cryptocurrency trading involves substantial risk of loss. Never invest more than you can afford to lose.**
 
 <div align="center">
 
